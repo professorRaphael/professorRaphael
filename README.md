@@ -1,7 +1,6 @@
 # Oi 👋, Eu sou Raphael, Bem-vindo ao meu Repositório de aula! 😊
 
-![image](https://github.com/professorRaphael/professorRaphael/assets/95256788/f7bc0ba4-3dce-40ca-af2f-16ea0524bdf1)
-
+![image](https://github.com/professorRaphael/professorRaphael/assets/95256788/2ab83733-32f2-47f7-be23-0dad25d613cc)
 
 Olá! Eu sou Raphael, professor universitário especializado em Desenvolvimento de Sistemas. Este repositório foi criado com o objetivo de ajudar os estudantes de graduação a aprender e aprimorar suas habilidades de programação. Aqui você encontrará uma variedade de exemplos de códigos, projetos e recursos úteis em diversas linguagens de programação, todos esses exemplos não são próprios para produção e são usados como exemplos simples para o desenvolvimento academico dos alunos.😉
 
